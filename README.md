@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatalerrorist" alt="fatalerrorist" /> </p>
 
-- 🔭 I’m currently working on **BudViser**
+- 🔭 I’m currently working on **datascience.tr**
 
 - 🌱 I’m currently learning **Deep Learning and High-Statistics**
 
