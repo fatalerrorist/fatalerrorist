@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatalerrorist" alt="fatalerrorist" /> </p>
 
-- 🔭 I’m currently working on **datascience.tr**
+- 🔭 I’m currently working on **Data Science and Machine Learning**
 
-- 🌱 I’m currently learning **Deep Learning and High-Statistics**
+- 🌱 I’m currently learning **NLP and Deep Q-Learning**
 
 - 📫 My Mail Adress : **balicienugur@gmail.com**
 
