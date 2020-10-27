@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ugur Akdogan</h1>
-<h3 align="center">I'm Self-Taught Data Scientist working on Projects and Organizations</h3>
+<h3 align="center">I'm Self-Taught Machine Learning(DL) Researcher and **Unemployed** </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatalerrorist" alt="fatalerrorist" /> </p>
 
-- 🔭 I’m currently working on **Data Science and Machine Learning**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **NLP and Deep Q-Learning**
+- 🌱 I’m currently learning **Autonomous Vehicles and Reinforcement Learning**
 
 - 📫 My Mail Adress : **balicienugur@gmail.com**
 
