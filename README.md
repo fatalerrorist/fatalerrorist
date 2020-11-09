@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatalerrorist" alt="fatalerrorist" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning and Deep Learning**
 
-- 🌱 I’m currently learning **Autonomous Vehicles and Reinforcement Learning**
+- 🌱 I’m currently learning **Full-Stack Web Development and Game Development**
 
 - 📫 My Mail Adress : **balicienugur@gmail.com**
 
