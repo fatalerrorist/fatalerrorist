@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ugur Akdogan</h1>
-<h3 align="center">I'm 20 years old Self-Taught Machine Learning(DL) Researcher. </h3>
+<h3 align="center">I'm 21 years old Self-Taught AI Researcher. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatalerrorist" alt="fatalerrorist" /> </p>
 
