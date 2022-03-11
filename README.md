@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatalerrorist" alt="fatalerrorist" /> </p>
 
-- 🔭 I’m currently working on **Kaggle Projects and Competitions**
+- 🔭 I’m currently working on **Embedded Systems and Graphic Design**
 
 
 - 📫 My Mail Adress : **balicienugur@gmail.com**
