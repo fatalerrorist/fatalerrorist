@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a AI Researching @birbaskadunya<br>I'm looking for an investor for my few projects that have a draft<br>I'm currently learning any kind of AI algorithm<br>I'm also Self-taught and 21 y.o<br>
+I'm currently working as a AI Researcher @birbaskadunya<br>I'm looking for an investor for my few projects that have a draft<br>I'm currently learning any kind of AI algorithm<br>I'm also Self-taught and 21 y.o<br>
 
 
 ## 🌐 Socials:
