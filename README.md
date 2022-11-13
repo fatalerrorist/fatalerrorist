@@ -12,14 +12,4 @@ I'm currently working as a AI Researcher @birbaskadunya<br>I'm looking for an in
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fatalerrorist&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatalerrorist&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fatalerrorist&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=fatalerrorist&icon=5&color=12)](https://visitcount.itsvg.in)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yx5tlbuan6h3hold4e6divq&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=21yx5tlbuan6h3hold4e6divq&redirect=true)
