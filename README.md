@@ -1,6 +1,6 @@
 <div align="center">
 
-Researcher and Software Developer<br>I'm working on @cool as a Software Developer<br>Self-Taught<br>
+Researcher and Software Developer<br>I'm working @cool as a Software Developer<br>Self-Taught<br>
 
 
 ## 🌐 Socials:
