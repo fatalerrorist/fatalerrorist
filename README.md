@@ -1,6 +1,6 @@
 <div align="center">
 
-Researcher and Software Developer<br>I'm looking for an investor for my few projects that have a draft<br>I'm currently learning any kind of AI algorithm<br>Self-Taught<br>
+Researcher and Software Developer<br>I'm working on @cool as a Software Developer<br>I'm currently learning any kind of AI algorithm<br>Self-Taught<br>
 
 
 ## 🌐 Socials:
