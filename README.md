@@ -1,6 +1,6 @@
 <div align="center">
 
-Researcher and Software Developer<br>I'm working @missafir as a Data Analyst<br>Self-Taught<br>
+Researcher and Software Developer<br>I'm working as a Data Scientist<br>Self-Taught<br>
 
 
 ## 🌐 Socials:
