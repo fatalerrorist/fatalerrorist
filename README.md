@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I’m currently working on cozum.net as a IT Director<br>🌱 I’m currently learning high-end back-end development<br>💬 Ask me about AI & Data Science
+🔭 I’m currently working on cozum.net as IT Director<br>🌱 I’m currently learning high-end back-end development<br>💬 Ask me about AI & Data Science
 
 
 ## 🌐 Socials:
